@@ -27,7 +27,7 @@ function draw() {
 
   lights();
 
-  rotateY(frameCount * 0.03);
+  rotateY(frameCount * 0.3);
 
   // Style the torus.
   noStroke(0);
